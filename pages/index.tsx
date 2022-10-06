@@ -66,11 +66,11 @@ export default function index3({}: Props) {
       <section className='AA'>
         <div className='container-fluid Me'>
         
-             <h2 id='show_2' >
+        <h2 id='show_2' >
                  Phakaphol 
                  <span>Phakaphol </span>
                  <span>Phakaphol </span>
-                 <span>Robotic & Web Developer</span> 
+                 <span>Robotic Eng. & Web Developer</span> 
              </h2>
         </div>
          

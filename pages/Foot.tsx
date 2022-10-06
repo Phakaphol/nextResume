@@ -14,7 +14,7 @@ export default function Foot({}: Props) {
       <div className='container-fluid CTB'>
 
         <div className='d-flex align-items-center justify-content-center'>
-            <h1 className='hvr-wobble-top text-white   mt-5' data-aos="fade-in">Contact Me</h1>
+            <h1 className='hvr-wobble-top text-white  mt-5' data-aos="fade-in">Contact Me</h1>
         </div>
         <div className='d-flex align-items-center justify-content-center'>
                     <Image 
@@ -22,7 +22,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/feature-bg-2.png" 
                     width={95}
                     height={95}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     
@@ -31,7 +31,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/seo-ball-1.png"  
                     width={48}
                     height={48}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt="" 
                     />
                     <Image 
@@ -39,7 +39,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/seo-half-cycle.png" 
                     width={149}
                     height={112}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     <Image 
@@ -47,7 +47,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/green-dot.png" 
                     width={70}
                     height={70}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     <Image 
@@ -55,14 +55,14 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/blue-half-cycle.png" 
                     width={110}
                     height={110}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt="" />
                     <Image 
                     className="img-fluid hero-bg-6 up-down-animation" 
                     src="/img/background-shape/seo-ball-1.png" 
                     width={125}
                     height={125}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     <Image 
@@ -70,7 +70,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/yellow-triangle.png" 
                     width={85}
                     height={85}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     <Image 
@@ -78,7 +78,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/service-half-cycle.png" 
                     width={79}
                     height={96}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                     <Image 
@@ -86,7 +86,7 @@ export default function Foot({}: Props) {
                     src="/img/background-shape/team-bg-triangle.png" 
                     width={104}
                     height={104}
-                    layout="fixed"
+                    layout="intrinsic"
                     alt=""
                     />
                 </div>

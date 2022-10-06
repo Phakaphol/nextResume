@@ -25,22 +25,26 @@ a {
   body {
     color: white;
     background: black;
+    
   }
 }
 /*h1 {
   color: white;
 }*/
 
+#__next{
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+
 
 
 /*----------------------- Me--------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Kanit");
-
-#__next{
-  width: "100%";
-  height: "100%";
-  position: "relative",
-}
 
 .navbar{
   background-color: black;
@@ -190,7 +194,7 @@ input {
 
   margin:  0 0;
   background-image: url('/img/BG.jpg');
-  height: 750px;
+  height: 80vh;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -257,7 +261,7 @@ input {
   -moz-background-clip: text;
   -webkit-background-clip: text;
   text-transform: uppercase;
-  font-size: 180px;
+  font-size: 10rem;
   margin: 10px 0;
   /*font-family: "Kanit", sans-serif;*/
 }
@@ -273,12 +277,12 @@ input {
 }
 @media only screen and (max-width: 700px) {
   #show_2 {
-    font-size: 5.5rem;
+    font-size: 4.8rem;
  }
 }
 @media only screen and (max-width: 480px) {
   #show_2 {
-    font-size: 4rem;
+    font-size: 3.8rem;
  }
 }
 
@@ -290,7 +294,7 @@ h2 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 180px;
+  font-size: 10rem;
   color: transparent;
   text-transform: uppercase;
 }
@@ -504,8 +508,31 @@ h2 {
   -moz-osx-font-smoothing: grayscale;
   -webkit-transform-origin: 0 100%;
   transform-origin: 0 100%;
-  font-size: 120px;
+  font-size: 7.2rem;
 }
+@media only screen and (max-width: 1100px) {
+  .hvr-wobble-top {
+    font-size: 7.2rem;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .hvr-wobble-top {
+    font-size: 6rem;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .hvr-wobble-top {
+    font-size: 4.8rem;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .hvr-wobble-top {
+    font-size: 3.8rem;
+ }
+}
+
+
+
 .hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
   -webkit-animation-name: hvr-wobble-top;
   animation-name: hvr-wobble-top;
@@ -625,18 +652,57 @@ h2 {
 
 }
 .myself{
-  font-size: 6.5rem;
-  
-
+  font-size: 6rem;
+}
+@media only screen and (max-width: 1100px) {
+  .myself   {
+    font-size: 6rem;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .myself  {
+    font-size: 5.5rem;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .myself   {
+    font-size: 4.5rem;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .myself   {
+    font-size: 4rem;
+ }
 }
 
+
 .myself2{
-  font-size: 7.5rem;
+  font-size: 6rem;
   position: absolute;
-  padding:140px 0;
-    display:block;
-    position:relative;
+  padding:100px 0;
+  display:block;
+  position:relative;
   
+}
+@media only screen and (max-width: 1100px) {
+  .myself2   {
+    font-size: 6rem;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .myself2   {
+    font-size: 5.5rem;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .myself2   {
+    font-size: 4.5rem;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .myself2   {
+    font-size: 4rem;
+ }
 }
 
 
@@ -653,6 +719,27 @@ h2 {
   margin-bottom: 7vh;
   position: relative;
   background: transparent;
+  width: 530px;
+}
+@media only screen and (max-width: 1100px) {
+  .Ex .card-text   {
+    width: 530px;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .Ex .card-text {
+    width: 500px;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .Ex .card-text  {
+    width: 450px;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .Ex .card-text  {
+    width: 350px;
+ }
 }
 
 .Ex .card-img {
@@ -693,11 +780,60 @@ h2 {
   color: #213b52;
   transition: 0.3s;
   font-family: "Kanit", sans-serif;
+  
 }
 
 .Ex .card-text {
-  color: #5e5e5e;
+  color: black;
   font-family: "Kanit", sans-serif;
+  font-size: 17px;
+  text-align: center;
+ 
+}
+
+@media only screen and (max-width: 1100px) {
+  .Ex .card-text   {
+    font-size: 17px;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .Ex .card-text {
+    font-size: 17px;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .Ex .card-text  {
+    font-size: 15px;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .Ex .card-text  {
+    font-size: 15px;
+ }
+}
+.SPEX{
+  font-size: 14px;
+  color: #5e5e5e;
+}
+@media only screen and (max-width: 1100px) {
+  .SPEX  {
+    font-size: 14px;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .SPEX {
+    font-size: 14px;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .SPEX {
+    font-size: 13px;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .SPEX  {
+    font-size: 13px;
+ }
 }
 
 .Ex .read-more a {
@@ -727,7 +863,27 @@ h2 {
 
 
 .Ex-title{
-  font-size: 7.5rem;
+  font-size: 6rem;
+}
+@media only screen and (max-width: 1100px) {
+  .Ex-title   {
+    font-size: 6rem;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .Ex-title  {
+    font-size: 5.5rem;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .Ex-title   {
+    font-size: 4.5rem;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .Ex-title   {
+    font-size: 4rem;
+ }
 }
 
 /*.Contact{
