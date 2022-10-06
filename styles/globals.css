@@ -255,7 +255,7 @@ input {
 
 
 #show_2 {
-  background-image: url(https://media3.giphy.com/media/dB66K4Kywc8gPVh6A7/giphy.gif?cid=ecf05e47xbyxr42a8wtxvq71a7a1jdgb79u0ukdad9remzpm&rid=giphy.gif&ct=g);
+  background-image: url("/img/Loop.gif");
   background-size: cover;
   color: transparent;
   -moz-background-clip: text;
@@ -321,53 +321,53 @@ h2 {
 }
 */
 
-#show_2:hover #show_2:focus #show_2:active span:nth-child(1) {
+#show_2:hover  span:nth-child(1) {
   transform: translateY(-1rem);
 }
 @media only screen and (max-width: 1100px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(1) {
+  #show_2:hover  span:nth-child(1) {
     transform: translateY(-0.7rem);
  }
 }
 @media only screen and (max-width: 900px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(1) {
+  #show_2:hover  span:nth-child(1) {
     transform: translateY(-0.55rem);
  }
 }
 @media only screen and (max-width: 700px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(1) {
+  #show_2:hover  span:nth-child(1) {
     transform: translateY(-0.47rem);
  }
 }
 @media only screen and (max-width: 480px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(1) {
+  #show_2:hover   span:nth-child(1) {
     transform: translateY(-0.4rem);
  }
 }
-#show_2:hover #show_2:focus span:nth-child(2) {
+#show_2:hover  span:nth-child(2) {
   transform: translateY(1rem);
 }
 @media only screen and (max-width: 1100px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(2) {
+  #show_2:hover span:nth-child(2) {
     transform: translateY(0.7rem);
  }
 }
 @media only screen and (max-width: 900px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(2) {
+  #show_2:hover span:nth-child(2) {
     transform: translateY(0.55rem);
  }
 }
 @media only screen and (max-width: 700px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(2) {
+  #show_2:hover  span:nth-child(2) {
     transform: translateY(0.47rem);
  }
 }
 @media only screen and (max-width: 480px) {
-  #show_2:hover #show_2:focus #show_2:active span:nth-child(2) {
+  #show_2:hover  span:nth-child(2) {
     transform: translateY(0.4rem);
  }
 }
-#show_2:hover #show_2:focus #show_2:active span:nth-child(3) {
+#show_2:hover  span:nth-child(3) {
   opacity: 1;
   transition: opacity 700ms ease;
 }
@@ -532,7 +532,6 @@ h2 {
 }
 
 
-
 .hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
   -webkit-animation-name: hvr-wobble-top;
   animation-name: hvr-wobble-top;
@@ -545,7 +544,15 @@ h2 {
 }
 
 
-:root {
+
+
+
+
+
+
+
+
+/*:root {
   
   --size: 60vmin;
   --space: 8vmin;
@@ -596,7 +603,7 @@ h2 {
   top: 0;
   left: 0;
   width: 600px;
-  height: 550px;
+  height: 500px;
   background-color: #BB0000;
   mix-blend-mode: multiply;
   opacity: 0;
@@ -618,7 +625,7 @@ h2 {
 
 .promo:hover .image-wrapper::after {
   opacity: 1;
-}
+}*/
 
 
 .his ,.his2, .his3 ,.his4 ,.his5{

@@ -19,38 +19,31 @@ export default function Personal({}: Props) {
         
 
         <div className='row'> 
-          <div className='col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6 B_pic d-flex justify-content-center mt-5' >
-
-          <div className="promo" data-aos="fade-right" data-aos-duration="1000">
-            <div className="image-wrapper shadow-lg me-5 ">
-
-            <Image 
-                className="Cool"
-                src={"/img/mypic.gif"}  
-                width={600}
-                height={550}
+          <div className='col-12  B_pic d-flex justify-content-center mt-5' >
+          <Image 
+                className="img-fluid"  
+                src="/img/pro1.jpg" 
+                width={500}
+                height={600}
                 layout="fixed"
-                
                 alt=""
                 
-                />
-
-            </div>
-            
+              />
+          
           </div>
-        </div>
 
         <div className='col'>
-          <div className='row'>
 
-            <div className='col mt-5 '>
+          <div className='row d-flex justify-content-center'>
+
+            <div className='col-sm-12 col-md-12 col-lg-12 col-xl-5 col-xxl-5 mt-5  '>
               <Card className='p-3'>
               <div className=' d-flex justify-content-start p-1 '>
                   <h3 className=' his ms-5 text-black border-bottom border-4 border-dark'>Personal</h3>
               </div>
                 <div className=' d-flex justify-content-start  '>
                   <h5  className=' his2 ms-5 mt-3  text-black'> 
-                 Name: Phakaphol Sangkaew (Clean)<br></br><br></br> Date of birth: 4 september 1997 <br></br><br></br>Age: 25 year<br></br><br></br>Phone: 083-024-7520<br></br><br></br>Email: cleanfibo@gmail.com
+                 Name: Phakaphol Sangkaew(Clean)<br></br><br></br> Date of birth: 4 september 1997 <br></br><br></br>Age: 25 year<br></br><br></br>Phone: 083-024-7520<br></br><br></br>Email: cleanfibo@gmail.com
                   </h5>
                 </div>    
 
@@ -79,7 +72,7 @@ export default function Personal({}: Props) {
             </Card>
             </div>
 
-            <div className='col mt-5'>
+            <div className='col-sm-12 col-md-12 col-lg-12 col-xl-5 col-xxl-5 mt-5'>
 
             <Card className='bg-dark p-3'>
               <div className=' d-flex justify-content-start '>
