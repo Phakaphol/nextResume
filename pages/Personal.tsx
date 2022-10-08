@@ -19,7 +19,7 @@ export default function Personal({}: Props) {
      
         <div className='d-flex justify-content-center'>
 
-        <div className="sudo d-flex justify-content-center"></div>
+        <div className="sudo d-flex justify-content-center mt-5"></div>
 
         </div>
         
