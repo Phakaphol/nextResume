@@ -77,7 +77,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>Web-Application(VM)<br></br>EPOW System </p></h5>
-                <p className="card-text">designer and maker FrontEnd ,Backend ,ORM ,Database  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,Jquery ,Ajax ,Sequlize,SQL ,NodeJS ,Express</span></p>
+                <p className="card-text">design and code FrontEnd ,Backend ,ORM ,Database  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,Jquery ,Ajax ,Sequlize,SQL ,NodeJS ,Express</span></p>
                 
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>Web-Application(Local)<br></br>EPOW System</p></h5>
-                <p className="card-text">designer and coder  FrontEnd ,Backend  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,JQreay ,Ajax ,C/C++ </span></p>
+                <p className="card-text">Design and code  FrontEnd ,Backend  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,JQreay ,Ajax ,C/C++ </span></p>
                
               </div>
             </div>
@@ -141,7 +141,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>Design Education Solution <br></br>1,722 disadvantaged schools</p></h5>
-                <p className="card-text">desing Education Solution <br></br><br></br>Office of National Digital Economy and Society Commission(ONDE)</p>
+                <p className="card-text">Design Education Solution <br></br><br></br>Office of National Digital Economy and Society Commission(ONDE)</p>
                
               </div>
             </div>
@@ -163,7 +163,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>The Thai national team in <br></br>the World Robot Championship at Qatar.</p></h5>
-                <p className="card-text">type Robot Soccer <br></br><br></br>Word Robot Olmypic (WRO2015)</p>
+                <p className="card-text">type: Robot Soccer <br></br><br></br>Word Robot Olmypic (WRO2015)</p>
                
               </div>
             </div>

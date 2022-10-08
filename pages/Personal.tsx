@@ -41,7 +41,7 @@ export default function Personal({}: Props) {
               </div>
                 <div className=' d-flex justify-content-start  '>
                   <h5  className=' his2 ms-4 mt-3  text-black'> 
-                  Phakaphol Sangkaew(Clean)<br></br><br></br>  4 september 1997 <br></br><br></br> 25 year<br></br><br></br> 083-024-7520<br></br><br></br>Email: cleanfibo@gmail.com
+                  Phakaphol Sangkaew(Clean)<br></br><br></br>  4 september 1997 <br></br><br></br> 25 year<br></br><br></br> 083-024-7520<br></br><br></br>cleanfibo@gmail.com
                   </h5>
                 </div>    
 
