@@ -321,7 +321,7 @@ h2 {
 }
 */
 
-#show_2:hover  span:nth-child(1) {
+#show_2:hover   span:nth-child(1) {
   transform: translateY(-1rem);
 }
 @media only screen and (max-width: 1100px) {

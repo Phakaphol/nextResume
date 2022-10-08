@@ -37,11 +37,11 @@ export default function Personal({}: Props) {
             <div className='col-sm-12 col-md-12 col-lg-12 col-xl-5 col-xxl-5 mt-5  '>
               <Card className='p-3'>
               <div className=' d-flex justify-content-start p-1 '>
-                  <h3 className=' his ms-5 text-black border-bottom border-4 border-dark'>Personal</h3>
+                  <h3 className=' his ms-4 text-black border-bottom border-4 border-dark'>Personal</h3>
               </div>
                 <div className=' d-flex justify-content-start  '>
-                  <h5  className=' his2 ms-5 mt-3  text-black'> 
-                 Name: Phakaphol Sangkaew(Clean)<br></br><br></br> Date of birth: 4 september 1997 <br></br><br></br>Age: 25 year<br></br><br></br>Phone: 083-024-7520<br></br><br></br>Email: cleanfibo@gmail.com
+                  <h5  className=' his2 ms-4 mt-3  text-black'> 
+                  Phakaphol Sangkaew(Clean)<br></br><br></br>  4 september 1997 <br></br><br></br> 25 year<br></br><br></br> 083-024-7520<br></br><br></br>Email: cleanfibo@gmail.com
                   </h5>
                 </div>    
 
@@ -49,20 +49,20 @@ export default function Personal({}: Props) {
 
             <Card className='bg-dark mt-5 p-3' >
               <div className=' d-flex justify-content-start '>
-                    <h3  className=' his2 ms-5 mt-3 text-white border-bottom border-4'> 
+                    <h3  className=' his2 ms-4 mt-3 text-white border-bottom border-4'> 
                       Work Experience
                     </h3>
               </div>
 
               <div className=' d-flex justify-content-start '>
-                <h5  className=' his2 ms-5 mt-3 text-white'> 
+                <h5  className=' his2 ms-4 mt-3 text-white'> 
                UNIARC CO.,LTD. <br></br><span className='h6'>Project Engineer (2019-2020)</span>
                 </h5>
               </div>
 
               <div className=' d-flex justify-content-start '>
                 
-                <h5  className=' his2 ms-5 mt-3 text-white'> 
+                <h5  className=' his2 ms-4 mt-3 text-white'> 
                    PK Control Solution <br></br><span className='h6'>Project Engineer (2020-2022)</span>
                 </h5>
               </div>
@@ -74,20 +74,20 @@ export default function Personal({}: Props) {
 
             <Card className='bg-dark p-3'>
               <div className=' d-flex justify-content-start '>
-                    <h3  className=' his2 ms-5  text-white border-bottom border-4'> 
+                    <h3  className=' his2 ms-4  text-white border-bottom border-4'> 
                       Education
                     </h3>
               </div>
 
               <div className=' d-flex justify-content-start '>
-                <h5  className=' his2 ms-5 mt-3 mb-4 text-white'> 
+                <h5  className=' his2 ms-4 mt-3 mb-4 text-white'> 
                 High School <br></br> <span className='h6'>Thanyaburi School(Sci-Math)</span>
                 </h5>
               </div>
 
               <div className=' d-flex justify-content-start '>
                 
-                <h5  className=' his2 ms-5 mt-3 mb-4 text-white'> 
+                <h5  className=' his2 ms-4 mt-3 mb-4 text-white'> 
                     Bachelor s Degree <br></br> 
                     <span className='h6'>Institute of Field Robotics (FIBO)<br></br>
                     Major in Robotic and Automation<br></br>
@@ -100,10 +100,10 @@ export default function Personal({}: Props) {
 
           <Card className='mt-5 p-3'>
             <div className=' d-flex justify-content-start'>
-                <h3 className=' his ms-5 mt-3 text-black border-bottom border-4 border-dark'>Language </h3>
+                <h3 className=' his ms-4 mt-3 text-black border-bottom border-4 border-dark'>Language </h3>
             </div>
               <div className=' d-flex justify-content-start'>
-                <h5  className=' his2 ms-5 mt-3  text-black'> 
+                <h5  className=' his2 ms-4 mt-3  text-black'> 
                 English <br></br> <span className='h6'> Upper Waystage(Wall street level)</span><br></br><br></br>
                 Thai <br></br><span className='h6'>native</span>  
                 </h5>
