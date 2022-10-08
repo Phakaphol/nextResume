@@ -555,15 +555,17 @@ h2 {
   background-repeat: no-repeat;
   background-position: center center;
   filter: blur(300px);
+  transition: 650ms ease;
   
 
 }
 
-.sudo:hover {
+.sudo:hover , .sudo:active ,.sudo:focus {
   background-image: url("/img/DSC_0088.jpg");
   background-size: contain, cover;
   background-repeat: no-repeat;
   background-position: center center;
+  
   
 	 
    filter: blur(0);
