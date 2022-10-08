@@ -16,21 +16,19 @@ export default function Personal({}: Props) {
         <div className='d-flex justify-content-center'>
           <h1 className='myself mt-5 text-white' data-aos="fade-in" data-aos-duration="4000">Myself</h1>
         </div>
-        
+     
+        <div className='d-flex justify-content-center'>
 
-        <div className='row'> 
-          <div className='col-12  B_pic d-flex justify-content-center mt-5' >
-          <Image 
-                className="img-fluid"  
-                src="/img/pro1.jpg" 
-                width={500}
-                height={600}
-                layout="fixed"
-                alt=""
-                
-              />
+        <div className="sudo d-flex justify-content-center"></div>
+
+        </div>
+        
+      
+           
+              
           
-          </div>
+          
+        <div className='row'> 
 
         <div className='col'>
 

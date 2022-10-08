@@ -545,7 +545,30 @@ h2 {
 
 
 
+.sudo {
+  position: relative;
+  width: 500px;
+  height:500px;
+  margin: 50px;
+  background-image: url("/img/11.png");
+  background-size: contain, cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  filter: blur(100px);
+  
 
+}
+
+.sudo:hover {
+  background-image: url("/img/22.png");
+  background-size: contain, cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  
+	 
+   filter: blur(0);
+ 
+}
 
 
 

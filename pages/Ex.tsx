@@ -56,7 +56,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>Robot USR-AP90</p></h5>
-                <p className="card-text">Co-Researcher desing model 2D/3D ,UX/UI ,Vision <br></br><br></br> Uni Arc Co., Ltd. <br></br> <span className='SPEX'>Solidworks , circuit-wizard ,Qt-disigner ,Python </span></p>
+                <p className="card-text">Co-Researcher design model 2D/3D ,UX/UI ,Vision <br></br><br></br> Uni Arc Co., Ltd. <br></br> <span className='SPEX'>Solidworks , circuit-wizard ,Qt-disigner ,Python </span></p>
                 <div className="read-more"><a href="https://www.youtube.com/watch?v=Zd7QziHcn_Q"><i className="icofont-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>Web-Application(Local)<br></br>EPOW System</p></h5>
-                <p className="card-text">designer and maker FrontEnd ,Backend  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,JQreay ,Ajax ,C/C++ </span></p>
+                <p className="card-text">designer and coder  FrontEnd ,Backend  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML ,CSS ,Bootstrap5 ,JS ,JQreay ,Ajax ,C/C++ </span></p>
                
               </div>
             </div>
@@ -119,7 +119,7 @@ export default function Ex({}: Props) {
               </div>
               <div className="card-body">
                 <h5 className="card-title"><p>founder LearnAbout team</p></h5>
-                <p className="card-text">lecturer team about Robot&programming <br></br>for student and teacher of disadvantaged school<br></br>purchase/interior design</p>
+                <p className="card-text">Lecturer for Robot&programming <br></br>for student and teacher of disadvantaged schools<br></br>educational sales/interior design</p>
                 <div className="read-more"><a href="https://www.facebook.com/LearnAbout2021"><i className="icofont-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -140,7 +140,7 @@ export default function Ex({}: Props) {
              
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>desing Education Solution <br></br>1,722 disadvantaged schools</p></h5>
+                <h5 className="card-title"><p>Design Education Solution <br></br>1,722 disadvantaged schools</p></h5>
                 <p className="card-text">desing Education Solution <br></br><br></br>Office of National Digital Economy and Society Commission(ONDE)</p>
                
               </div>
