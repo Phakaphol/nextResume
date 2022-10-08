@@ -30,6 +30,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
              
               </div>
@@ -52,6 +53,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
               </div>
               <div className="card-body">
@@ -73,6 +75,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
               </div>
               <div className="card-body">
@@ -93,6 +96,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
               </div>
               <div className="card-body">
@@ -114,6 +118,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
              
               </div>
@@ -136,6 +141,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
              
               </div>
@@ -158,6 +164,7 @@ export default function Ex({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
              
               </div>

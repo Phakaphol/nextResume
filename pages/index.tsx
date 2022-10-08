@@ -98,6 +98,7 @@ export default function index3({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
             </div>
           
@@ -132,6 +133,7 @@ export default function index3({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
             </div>
           <h1 className='text-white d-flex justify-content-center mb-3 mt-3' >Design model 2D/3D</h1>
@@ -156,6 +158,7 @@ export default function index3({}: Props) {
                 layout="intrinsic"
                 alt=""
                 data-aos="flip-right"
+                priority={true}
               />
             </div>
 
