@@ -1,6 +1,7 @@
 import React from 'react'
 import { useRouter } from 'next/router';
 import { useState,useEffect } from "react";
+import Head from 'next/head'
 type Props = {}
 
 export default function Loader({}: Props) {
@@ -15,6 +16,10 @@ export default function Loader({}: Props) {
   
   return (
     <div>
+      <Head>
+       <title>Clean Resume</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
         <div id="loader">
             <div id="shadow"></div>
             <div id="box"></div>
