@@ -215,8 +215,17 @@ input {
   background-repeat: no-repeat;
   background-attachment: fixed;
 
- 
-
+}
+@supports ( -webkit-touch-callout : none) {
+  .CTB {
+  background-attachment:scroll
+  }
+}
+  
+@supports not ( -webkit-touch-callout : none) {
+  .CTB {
+  background-attachment: fixed;
+  }
 }
 
 .Ex{
