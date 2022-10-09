@@ -112,7 +112,7 @@ export default function index3({}: Props) {
 
             <div className='text-white text-center d-flex justify-content-center'>
              
-                <p> Nodejs, React, Nextjs, Bootstrap, Zustand, Javascript, Typescript, HTML, CSS, Python, C/C++ ,Sequlize  </p> 
+                <p> Nodejs, React, Nextjs, Bootstrap, Zustand, Express, Javascript, JQuery, Typescript, HTML, CSS, Python, C/C++ ,Sequlize  </p> 
               
             </div>
             
