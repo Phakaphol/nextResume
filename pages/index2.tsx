@@ -107,24 +107,15 @@ export default function index3({}: Props) {
               />
             </div>
           
-              
-            <h1 className='text-white d-flex justify-content-center '>Software Dev<br></br></h1>
+            <h1 className='text-white d-flex justify-content-center mb-3 mt-3'>Software Dev<br></br></h1>
             
-            <div className='row '>
-
-            <div className='col'>
-            <ul className='text-white '>
-              <li className='d-flex justify-content-center text-center'>Frameworks : Nodejs, React, Nextjs, Bootstrap, Zustand, ReduxToolkit </li>
-              <li className='d-flex justify-content-center text-center'>Program : Javascript, Typescript, HTML, CSS, Python, C/C++ </li>
-              <li className='d-flex justify-content-center text-center'>ORM : Sequlize</li>
+            <ul className='text-white'>
+             
+              <li className='d-flex justify-content-center text-center'> Nodejs, React, Nextjs, Bootstrap, Zustand, Javascript, Typescript, HTML, CSS, Python, C/C++ ,Sequlize  </li>
               
-            </ul>
-
-            </div>
-
-           
-          </div>
-          
+              
+              
+            </ul> 
            
         </div>
 
