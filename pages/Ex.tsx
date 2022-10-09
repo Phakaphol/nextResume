@@ -19,7 +19,7 @@ export default function Ex({}: Props) {
         <div className="row mt-5">
           
           <div className="col-sm-12 col-md-12 col-lg-12 col-xl-6 col-xxl-6 d-flex justify-content-center" data-aos="fade-right">
-            <div className="card">
+            <div className="card  d-flex justify-content-center">
               <div className="card-img">
                 
               <Image 
@@ -35,7 +35,7 @@ export default function Ex({}: Props) {
              
               </div>
               <div className="card-body ">
-                <h5 className="card-title h5"><p>Mobile Robot</p></h5>
+                <h5 className="card-title "><p>Mobile Robot</p></h5>
                 <p className="card-text ">Design model 2D/3D <br></br><br></br>  Central Institute of Forensic Science(CIFS) <br></br><span className='SPEX'>Solidworks</span></p>
                 
               </div>
@@ -123,7 +123,7 @@ export default function Ex({}: Props) {
              
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>founder LearnAbout team</p></h5>
+                <h5 className="card-title"><p>Founder LearnAbout team</p></h5>
                 <p className="card-text">Lecturer for Robot&programming <br></br>for student and teacher of disadvantaged schools<br></br>educational sales/interior design</p>
                 <div className="read-more"><a href="https://www.facebook.com/LearnAbout2021"><i className="icofont-arrow-right"></i> Read More</a></div>
               </div>
@@ -169,7 +169,7 @@ export default function Ex({}: Props) {
              
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>The Thai national team in <br></br>the World Robot Championship at Qatar.</p></h5>
+                <h5 className="card-title"><p>The Thai national team in <br></br>the World Robot Championship at Qatar</p></h5>
                 <p className="card-text">type: Robot Soccer <br></br><br></br>Word Robot Olmypic (WRO2015)</p>
                
               </div>

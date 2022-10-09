@@ -49,7 +49,7 @@ export default function Personal({}: Props) {
 
             <Card className='bg-dark mt-5 p-3' >
               <div className=' d-flex justify-content-start '>
-                    <h3  className=' his2 ms-4 mt-3 text-white border-bottom border-4'> 
+                    <h3  className=' his ms-4 mt-3 text-white border-bottom border-4'> 
                       Work Experience
                     </h3>
               </div>
@@ -74,7 +74,7 @@ export default function Personal({}: Props) {
 
             <Card className='bg-dark p-3'>
               <div className=' d-flex justify-content-start '>
-                    <h3  className=' his2 ms-4  text-white border-bottom border-4'> 
+                    <h3  className=' his ms-4  text-white border-bottom border-4'> 
                       Education
                     </h3>
               </div>

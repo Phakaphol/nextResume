@@ -288,6 +288,16 @@ input {
     font-size: 3.8rem;
  }
 }
+@media only screen and (max-width: 375px) {
+  #show_2 {
+    font-size: 3.5rem;
+ }
+}
+@media only screen and (max-width: 320px) {
+  #show_2 {
+    font-size: 3rem;
+ }
+}
 
 
 
@@ -533,6 +543,16 @@ h2 {
     font-size: 3.8rem;
  }
 }
+@media only screen and (max-width: 375px) {
+  .hvr-wobble-top {
+    font-size: 3rem;
+ }
+}
+@media only screen and (max-width: 320px) {
+  .hvr-wobble-top {
+    font-size: 3rem;
+ }
+}
 
 
 .hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
@@ -654,20 +674,52 @@ h2 {
 .promo:hover .image-wrapper::after {
   opacity: 1;
 }*/
-
-
-.his ,.his2, .his3 ,.his4 ,.his5{
-  
+.his{
   color: black;
   font-family: "Kanit", sans-serif;
+ 
 }
 
-.his:hover ,.his2:hover , .his3:hover , .his4:hover , .his5:hover   {
-  
+@media only screen and (max-width: 480px) {
+  .his {
+    font-size: 19px;
+ }
+}
+@media only screen and (max-width: 375px) {
+  .his {
+    font-size: 17px;
+ }
+}
+@media only screen and (max-width: 320px) {
+  .his {
+    font-size: 16px;
+ }
+}
+
+
+.his2{
   color: black;
   font-family: "Kanit", sans-serif;
-  
+ 
 }
+
+@media only screen and (max-width: 480px) {
+  .his2 {
+    font-size: 16px;
+ }
+}
+@media only screen and (max-width: 375px) {
+  .his2 {
+    font-size: 15px;
+ }
+}
+@media only screen and (max-width: 320px) {
+  .his2 {
+    font-size: 12px;
+ }
+}
+
+
 
 
 
@@ -773,7 +825,7 @@ h2 {
 }
 @media only screen and (max-width: 480px) {
   .Ex .card-text  {
-    width: 350px;
+    width: auto;
  }
 }
 
@@ -815,7 +867,28 @@ h2 {
   color: #213b52;
   transition: 0.3s;
   font-family: "Kanit", sans-serif;
+  font-size: 19px;
   
+}
+@media only screen and (max-width: 1100px) {
+  .Ex .card-title p   {
+    font-size: 19px;
+ }
+}
+@media only screen and (max-width: 900px) {
+  .Ex .card-title p {
+    font-size: 18px;
+ }
+}
+@media only screen and (max-width: 700px) {
+  .Ex .card-title p {
+    font-size: 17px;
+ }
+}
+@media only screen and (max-width: 480px) {
+  .Ex .card-title p  {
+    font-size: 14px;
+ }
 }
 
 .Ex .card-text {
@@ -843,9 +916,20 @@ h2 {
 }
 @media only screen and (max-width: 480px) {
   .Ex .card-text  {
-    font-size: 15px;
+    font-size: 14px;
  }
 }
+@media only screen and (max-width: 375px) {
+  .Ex .card-text  {
+    font-size: 12px;
+ }
+}
+@media only screen and (max-width: 320px) {
+  .Ex .card-text  {
+    font-size: 10px;
+ }
+}
+
 .SPEX{
   font-size: 14px;
   color: #5e5e5e;
@@ -868,6 +952,16 @@ h2 {
 @media only screen and (max-width: 480px) {
   .SPEX  {
     font-size: 13px;
+ }
+}
+@media only screen and (max-width:375px) {
+  .SPEX  {
+    font-size: 12px;
+ }
+}
+@media only screen and (max-width: 320px) {
+  .SPEX  {
+    font-size: 10px;
  }
 }
 
