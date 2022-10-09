@@ -182,9 +182,19 @@ input {
    background-repeat: no-repeat;
    background-attachment: fixed;
    
-   
- 
  }
+
+ @supports ( -webkit-touch-callout : none) {
+  .step2 {
+  background-attachment:scroll
+  }
+}
+  
+@supports not ( -webkit-touch-callout : none) {
+  .step2 {
+  background-attachment: fixed;
+  }
+}
  .step2::before{
   background-color: black;
   content: '';
@@ -220,8 +230,6 @@ input {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;*/
-
- 
 
 }
 
