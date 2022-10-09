@@ -136,7 +136,7 @@ export default function Ex({}: Props) {
               <Image 
                 className="img-fluid" 
                 src="/img/PR9.png"
-                width={650}
+                width={750}
                 height={450}
                 layout="intrinsic"
                 alt=""
