@@ -211,13 +211,14 @@ export default function index3({}: Props) {
   )
 }
 
-/*export async function getServerSideProps(){
-      await new Promise((resolve)=>{
-        setTimeout(resolve,3000);
-      });
-      return{
-        props:{},
-      };
-}*/
+export async function getServerSideProps(){
+    await new Promise((resolve)=>{
+      setTimeout(resolve,2000);
+      
+    });
+    return{
+      props:{},
+    };
+}
 
 
