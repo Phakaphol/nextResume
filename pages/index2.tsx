@@ -106,16 +106,16 @@ export default function index3({}: Props) {
                 priority={true}
               />
             </div>
-          
-            <h1 className='text-white d-flex justify-content-center mb-3 mt-3'>Software Dev<br></br></h1>
-            
-            <ul className='text-white'>
+            <div className='text-white d-flex justify-content-center mb-3 mt-3'>
+              <h1>Software Dev<br></br></h1>
+            </div>
+
+            <div className='text-white text-center d-flex justify-content-center'>
              
-              <li className='d-flex justify-content-center text-center'> Nodejs, React, Nextjs, Bootstrap, Zustand, Javascript, Typescript, HTML, CSS, Python, C/C++ ,Sequlize  </li>
+                <p> Nodejs, React, Nextjs, Bootstrap, Zustand, Javascript, Typescript, HTML, CSS, Python, C/C++ ,Sequlize  </p> 
               
-              
-              
-            </ul> 
+            </div>
+            
            
         </div>
 
@@ -132,13 +132,17 @@ export default function index3({}: Props) {
                 priority={true}
               />
             </div>
-          <h1 className='text-white d-flex justify-content-center mb-3 mt-3' >Design model 2D/3D</h1>
+            <div className='text-white d-flex justify-content-center mb-3 mt-3'>
+              <h1>Design model 2D/3D</h1>
+            </div>
+          
+            <div className='text-white text-center d-flex justify-content-center'>
+            
+              <p>Solidwork 2D/3D<br></br>Simulator : Force, fluid-flow, Animation<br></br>Circuit Wizard</p>
+              
+            </div>
 
-          <ul className='text-white '>
-              <li className='d-flex justify-content-center'>Solidwork 2D/3D</li>
-              <li className='d-flex justify-content-center'>Simulator : Force, fluid-flow, Animation</li>
-              <li className='d-flex justify-content-center'>Circuit Wizard</li>
-          </ul>
+          
          
 
           </div>
@@ -158,11 +162,15 @@ export default function index3({}: Props) {
               />
             </div>
 
-          <h1 className='text-white d-flex justify-content-center mt-3 ms-4 mb-3'>Teaching</h1>
-            <ul className='text-white'>
-                <li className='d-flex justify-content-center'>Robotic&Programing tutor</li>
-                <li className='d-flex justify-content-center'>(2014-2022)</li>
-            </ul>
+            <div className='text-white d-flex justify-content-center mb-3 mt-3'>
+              <h1>Teaching</h1>
+            </div>
+
+            <div className='text-white text-center d-flex justify-content-center'>
+              <p>Robotic&Programing tutor<br></br>(2014-2022)</p>
+            </div>
+            
+           
  
           </div>
 
