@@ -10,7 +10,7 @@ export default function Loader({}: Props) {
     setTimeout(() => {
       console.log('Hello, World!')
       router.push("/index2")
-    }, 2500);
+    }, 1000);
   })
   
   return (
