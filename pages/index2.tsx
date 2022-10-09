@@ -114,8 +114,8 @@ export default function index3({}: Props) {
 
             <div className='col'>
             <ul className='text-white '>
-              <li className='d-flex justify-content-center'>Frameworks : Nodejs , React , Nextjs ,Bootstrap Zustand ReduxToolkit </li>
-              <li className='d-flex justify-content-center'>Program : Javascript , Typescript , HTML ,CSS , Python ,C/C++ </li>
+              <li className='d-flex justify-content-center'>Frameworks : Nodejs, React, Nextjs, Bootstrap, Zustand, ReduxToolkit </li>
+              <li className='d-flex justify-content-center'>Program : Javascript, Typescript, HTML, CSS, Python, C/C++ </li>
               <li className='d-flex justify-content-center'>ORM : Sequlize</li>
               
             </ul>
@@ -145,7 +145,7 @@ export default function index3({}: Props) {
 
           <ul className='text-white '>
               <li className='d-flex justify-content-center'>Solidwork 2D/3D</li>
-              <li className='d-flex justify-content-center'>Simulator : Force , fluid-flow , Animation</li>
+              <li className='d-flex justify-content-center'>Simulator : Force, fluid-flow, Animation</li>
               <li className='d-flex justify-content-center'>Circuit Wizard</li>
           </ul>
          
@@ -170,7 +170,7 @@ export default function index3({}: Props) {
           <h1 className='text-white d-flex justify-content-center mt-3 ms-4 mb-3'>Teaching</h1>
             <ul className='text-white'>
                 <li className='d-flex justify-content-center'>Robotic&Programing tutor</li>
-                <li className='d-flex justify-content-center'>(2016-2022)</li>
+                <li className='d-flex justify-content-center'>(2014-2022)</li>
             </ul>
  
           </div>
