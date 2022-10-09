@@ -184,6 +184,7 @@ input {
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
+   background-attachment:scroll
    
  
  }
@@ -239,6 +240,10 @@ input {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-attachment:scroll
  
  /* background-image: url('/img/BG.jpg');
   background-repeat: no-repeat;
