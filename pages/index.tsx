@@ -4,7 +4,7 @@ import { useState,useEffect } from "react";
 import Head from 'next/head'
 type Props = {}
 
-export default function Loader({}: Props) {
+export default function Index({}: Props) {
   const router = useRouter();
 
   useEffect(() => {
@@ -17,7 +17,7 @@ export default function Loader({}: Props) {
   return (
     <div>
       <Head>
-       <title>Clean Resume</title>
+       <title>My page title</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
         <div id="loader">

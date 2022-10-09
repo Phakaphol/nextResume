@@ -22,7 +22,6 @@ export default function index3({}: Props) {
       <Head>
        <title>My page title</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css'/>
       </Head>
 
        <Nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
