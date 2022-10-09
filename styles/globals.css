@@ -551,7 +551,7 @@ h2 {
   width: 500px;
   height:500px;
 
-  background-image: url("/img/DSC_0088.jpg");
+  background-image: url("/img/11.png");
   background-size: contain, cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -562,7 +562,7 @@ h2 {
 }
 
 .sudo:hover , .sudo:active ,.sudo:focus {
-  background-image: url("/img/DSC_0088.jpg");
+  background-image: url("/img/11.png");
   background-size: contain, cover;
   background-repeat: no-repeat;
   background-position: center center;
