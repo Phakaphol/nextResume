@@ -8,6 +8,8 @@ import Personal from './Personal'
 import Ex  from './Ex'
 import Foot from './Foot'
 
+import { resolve } from 'path';
+
 
 type Props = {}
 
@@ -181,6 +183,7 @@ export default function index3({}: Props) {
       <Personal/>
       <Ex/>
       <Foot/>
+      
 
       <section>
 
@@ -191,7 +194,7 @@ export default function index3({}: Props) {
 
     </div>
     
-     
+   
 
     
 
@@ -204,3 +207,14 @@ export default function index3({}: Props) {
  
   )
 }
+
+/*export async function getServerSideProps(){
+      await new Promise((resolve)=>{
+        setTimeout(resolve,10000);
+      });
+      return{
+        props:{},
+      };
+}
+*/
+
