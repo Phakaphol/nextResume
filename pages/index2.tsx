@@ -74,7 +74,7 @@ export default function index3({}: Props) {
                  Phakaphol 
                  <span>Phakaphol </span>
                  <span>Phakaphol </span>
-                 <span>Robotic Eng. & Web Developer</span> 
+                 <span>Robotics Eng. & Web Developer</span> 
              </h2>
         </div>
          
@@ -166,7 +166,7 @@ export default function index3({}: Props) {
             </div>
 
             <div className='text-white text-center d-flex justify-content-center'>
-              <p>Robotic&Programing tutor<br></br>(2014-2022)</p>
+              <p>Robotics&Programing tutor<br></br>(2014-2022)</p>
             </div>
             
            
