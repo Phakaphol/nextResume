@@ -63,7 +63,7 @@ export default function Personal({}: Props) {
               <div className=' d-flex justify-content-start '>
                 
                 <h5  className=' his2 ms-4 mt-3 text-white'> 
-                   PK Control Solution <br></br><span className='h6'>Project Engineer (2020-2022)</span>
+                   PK Control Solution <br></br><span className='h6'>Software Engineer (2020-2022)</span>
                 </h5>
               </div>
 
@@ -104,7 +104,7 @@ export default function Personal({}: Props) {
             </div>
               <div className=' d-flex justify-content-start'>
                 <h5  className=' his2 ms-4 mt-3  text-black'> 
-                English <br></br> <span className='h6'> Good(CEFR A2)</span><br></br><br></br>
+                English <br></br> <span className='h6'> Good (CEFR A2)</span><br></br><br></br>
                 Thai <br></br><span className='h6'>Native</span>  
                 </h5>
                 
