@@ -91,7 +91,7 @@ export default function Personal({}: Props) {
                     Bachelor s Degree <br></br> 
                     <span className='h6'>Institute of Field Robotics (FIBO)<br></br>
                     Major in Robotic and Automation<br></br>
-                    King Mongkut &apos;s University of Technology Thonburi<br></br>(KMUTT)</span>
+                    King Mongkut&apos;s University of Technology Thonburi<br></br>(KMUTT)</span>
                    
                 </h5>
               </div>
