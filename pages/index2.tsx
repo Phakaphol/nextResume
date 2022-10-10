@@ -106,7 +106,7 @@ export default function index3({}: Props) {
               />
             </div>
             <div className='text-white d-flex justify-content-center mb-3 mt-3'>
-              <h1>Software Dev<br></br></h1>
+              <h1>Programming<br></br></h1>
             </div>
 
             <div className='text-white text-center d-flex justify-content-center'>
