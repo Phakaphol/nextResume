@@ -35,7 +35,7 @@ export default function Ex({}: Props) {
              
               </div>
               <div className="card-body ">
-                <h5 className="card-title "><p>Mobile Robot</p></h5>
+                <h5 className="card-title "><p>Mobile robot carried object(model: USR AD-90)</p></h5>
                 <p className="card-text ">Design model 2D/3D <br></br><br></br>  Central Institute of Forensic Science(CIFS) <br></br><span className='SPEX'>Solidworks</span></p>
                 
               </div>
@@ -57,7 +57,7 @@ export default function Ex({}: Props) {
               />
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>Robot USR-AP90</p></h5>
+                <h5 className="card-title"><p>Mobile robot Covid-19 sterilization(model:USR AP-90)</p></h5>
                 <p className="card-text">Co-Researcher design model 2D/3D ,UX/UI ,Vision <br></br><br></br> Uni Arc Co., Ltd. <br></br> <span className='SPEX'>Solidworks, circuit-wizard, Qt-disigner, Python </span></p>
                 <div className="read-more"><a href="https://www.youtube.com/watch?v=Zd7QziHcn_Q"><i className="icofont-arrow-right"></i> Read More</a></div>
               </div>
@@ -79,7 +79,7 @@ export default function Ex({}: Props) {
               />
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>Web-Application(VM)<br></br>EPOW System </p></h5>
+                <h5 className="card-title"><p>Web-Application(Cloud)<br></br>Adaptive Current Control System </p></h5>
                 <p className="card-text">Design and code FrontEnd ,Backend ,ORM <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML, CSS, Bootstrap5, JS, Jquery, Ajax, Sequlize, SQL, NodeJS, Express</span></p>
                 
               </div>
@@ -100,7 +100,7 @@ export default function Ex({}: Props) {
               />
               </div>
               <div className="card-body">
-                <h5 className="card-title"><p>Web-Application(Local)<br></br>EPOW System</p></h5>
+                <h5 className="card-title"><p>Web-Application(Local)<br></br>Adaptive Current Control System</p></h5>
                 <p className="card-text">Design and code  FrontEnd ,Backend  <br></br><br></br> Electricity Generating Authority of Thailand(EGAT) <br></br><span className='SPEX'>HTML, CSS, Bootstrap5, JS, JQreay, Ajax, C/C++ </span></p>
                
               </div>
